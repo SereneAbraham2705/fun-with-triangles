@@ -13,3 +13,4 @@ App consists of the following:
 TECHNOLOGIES USED: HTML ,CSS ,Javascript.
 
 CHECK OUT THE APP HERE:
+https://serene-fun-with-triangles.netlify.app/index.html
